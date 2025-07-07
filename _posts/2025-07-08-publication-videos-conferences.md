@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Les vidéos des conférences d'Avignon sont disponibles!"
+title: "Les vidéos et publications des conférences d'Avignon sont disponibles!"
 published: true
 ---
 
@@ -10,3 +10,4 @@ Vous pourrez y découvrir des cas d'usage et stratégies autour de QGIS, présen
 
 - playlist sur PeerTube : https://video.osgeo.org/w/p/6FaxCxrrfstpaAoxzVH5dZ
 - playlist sur Youtube : https://www.youtube.com/watch?v=rbZp4ylCNyU&list=PLAl6XWer3JnMb_RspC9xOM3M08EJBJ3Vo
+- les PDF des présentations: https://gitlab.com/osgeo-fr/journees_qgis/-/tree/master/Pr%C3%A9sentations/2025
