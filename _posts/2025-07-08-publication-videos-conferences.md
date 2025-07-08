@@ -8,5 +8,5 @@ Les 12 conférences des dernières Rencontres QGIS-fr d'Avignon, le 11 Juin dern
 
 Vous pourrez y découvrir des cas d'usage et stratégies autour de QGIS, présentés par les conférencier/es de cette année.
 
-- playlist sur PeerTube : https://video.osgeo.org/w/p/6FaxCxrrfstpaAoxzVH5dZ
-- les PDF des présentations: https://gitlab.com/osgeo-fr/journees_qgis/-/tree/master/Pr%C3%A9sentations/2025
+- playlist sur PeerTube : [QGISFR2025 - Avignon](https://video.osgeo.org/w/p/6FaxCxrrfstpaAoxzVH5dZ)
+- les PDF des présentations: [dossier GitLab](https://gitlab.com/osgeo-fr/journees_qgis/-/tree/master/Pr%C3%A9sentations/2025)
