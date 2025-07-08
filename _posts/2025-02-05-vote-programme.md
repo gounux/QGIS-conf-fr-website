@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Participer au choix des propositions !"
-published: true
+published: false
 
 ---
 
